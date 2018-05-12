@@ -1,0 +1,28 @@
+_repo: The-Cycle-of-Spring_24607
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: Play.
+gutenberg_issued: '2008-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Indian drama'
+- !lcsh 'Bengali drama -- Translations into English'
+title: The Cycle of Spring
+url: http://www.gutenberg.org/ebooks/24607
